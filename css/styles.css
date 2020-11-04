@@ -1,5 +1,5 @@
 @font-face {
-  font-family: "Akkurat, sans-serif";
+  font-family: "Akkurat", sans-serif;
   font-style: normal;
   font-weight: 400;
   src: url(../FontsFree-Net-Akkurat.ttf) format('truetype');
@@ -296,6 +296,54 @@ a:link {
   line-height: 12px;
 
   color: #000000;
+}
+.forthpr{
 
+position: absolute;
+width: 383.96px;
+height: 545px;
+left: 30px;
+top: 100px;
+margin: 0px;
+}
+.popis4{
+  position: absolute;
+width: 226.44px;
+height: 470px;
+left: 465px;
+top: 200px;
+
+font-family: "Akkurat";
+font-style: normal;
+font-weight: 600px;
+font-size: 16px;
+line-height: 15px;
+
+color: #000000;
+
+}
+.fipr{
+
+position: absolute;
+width: 336px;
+height: 476px;
+left: 750px;
+top: 200px;
+}
+.popis5{
+
+  position: absolute;
+  width: 500px;
+  height: 64.01px;
+  left: 750px;
+  top: 600px;
+
+  font-family: 'Akkurat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 15px;
+
+  color: #000000;
 
 }
