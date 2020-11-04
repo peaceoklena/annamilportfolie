@@ -347,3 +347,62 @@ top: 200px;
   color: #000000;
 
 }
+
+
+.textcontacts{
+
+position: absolute;
+width: 1440px;
+height: 165px;
+left: 0px;
+top: 800px;
+
+font-family: "Akkurat";
+font-style: normal;
+font-weight: 500;
+font-size: 123px;
+line-height: 144px;
+text-transform: uppercase;
+
+color: #000000;
+padding-bottom: 250px;
+}
+.contactsbl{
+  position: absolute;
+width: 367px;
+height: 97px;
+left: 122px;
+top: 1150px;
+
+font-family: 'Akkurat';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 15px;
+
+color: #000000;
+}
+.copiright{
+  position: absolute;
+width: 1440px;
+height: 64.37px;
+left: 0px;
+top: 1280px;
+
+background: #000000;
+}
+.textcopi{
+  position: absolute;
+width: 529px;
+height: 40.74px;
+left: 102px;
+top: 10px;
+
+font-family: 'Akkurat';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+
+color: #FFFFFF;
+}
