@@ -5,13 +5,6 @@
   src: url(../FontsFree-Net-Akkurat.ttf) format('truetype');
 }
 
-@font-face {
-  font-family: "Roboto, sans-serif";
-  font-style: normal;
-  font-weight: 500;
-  src: url(../Roboto-Medium.ttf) format('truetype');
-}
-
 body {
   font-family: "Akkurat, sans-serif";
   margin: 0px;
@@ -20,7 +13,7 @@ body {
 .rectangle {
   background-color: black;
   position: absolute;
-  width: 1300px;
+  width: 1440px;
   height: 900px;
   left: 0px;
   top: -2px;
@@ -171,7 +164,7 @@ a:link {
 
 .rectangle-projects {
   position: absolute;
-  width: 1300px;
+  width: 1440px;
   height: 165px;
   left: 0px;
   top: 894px;
@@ -218,7 +211,7 @@ a:link {
 
 .rectangle-choosepr {
   position: absolute;
-  width: 1300px;
+  width: 1440px;
   height: 1273px;
   left: 0px;
   top: 1036px;
@@ -272,7 +265,7 @@ a:link {
 .block {
   background-color: white;
   position: absolute;
-  width: 1300px;
+  width: 1440px;
   height: 1000px;
   left: 0px;
   top: 2309px;
@@ -282,127 +275,131 @@ a:link {
   font-size: 10px;
   line-height: 12px;
 }
-.date{
+
+.date {
   position: absolute;
   width: 66px;
   height: 47px;
   left: 102px;
   top: 50px;
-
   font-family: "Akkurat";
   font-style: normal;
   font-weight: 500;
   font-size: 10px;
   line-height: 12px;
-
   color: #000000;
 }
-.forthpr{
 
-position: absolute;
-width: 383.96px;
-height: 545px;
-left: 30px;
-top: 100px;
-margin: 0px;
-}
-.popis4{
+.forthpr {
   position: absolute;
-width: 226.44px;
-height: 470px;
-left: 465px;
-top: 200px;
-
-font-family: "Akkurat";
-font-style: normal;
-font-weight: 600px;
-font-size: 16px;
-line-height: 15px;
-
-color: #000000;
-
+  width: 383.96px;
+  height: 545px;
+  left: 30px;
+  top: 100px;
+  margin: 0px;
 }
-.fipr{
 
-position: absolute;
-width: 336px;
-height: 476px;
-left: 750px;
-top: 200px;
+.popis4 {
+  position: absolute;
+  width: 226.44px;
+  height: 470px;
+  left: 465px;
+  top: 200px;
+  font-family: "Akkurat";
+  font-style: normal;
+  font-weight: 600px;
+  font-size: 16px;
+  line-height: 15px;
+  color: #000000;
 }
-.popis5{
 
+.fipr {
+  position: absolute;
+  width: 336px;
+  height: 476px;
+  left: 750px;
+  top: 200px;
+}
+
+.popis5 {
   position: absolute;
   width: 500px;
   height: 64.01px;
   left: 750px;
   top: 600px;
-
   font-family: 'Akkurat';
   font-style: normal;
   font-weight: 700;
   font-size: 16px;
   line-height: 15px;
-
   color: #000000;
-
 }
 
-
-.textcontacts{
-
-position: absolute;
-width: 1440px;
-height: 165px;
-left: 0px;
-top: 800px;
-
-font-family: "Akkurat";
-font-style: normal;
-font-weight: 500;
-font-size: 123px;
-line-height: 144px;
-text-transform: uppercase;
-
-color: #000000;
-padding-bottom: 250px;
-}
-.contactsbl{
+.textcontacts {
   position: absolute;
-width: 367px;
-height: 97px;
-left: 122px;
-top: 1150px;
-
-font-family: 'Akkurat';
-font-style: normal;
-font-weight: 600;
-font-size: 16px;
-line-height: 15px;
-
-color: #000000;
+  width: 1440px;
+  height: 165px;
+  left: 0px;
+  top: 800px;
+  font-family: "Akkurat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 123px;
+  line-height: 144px;
+  text-transform: uppercase;
+  color: #000000;
+  padding-bottom: 250px;
 }
-.copiright{
-  position: absolute;
-width: 1440px;
-height: 64.37px;
-left: 0px;
-top: 1280px;
 
-background: #000000;
+.contactsbl {
+  position: absolute;
+  width: 367px;
+  height: 97px;
+  left: 122px;
+  top: 1150px;
+  font-family: 'Akkurat';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 15px;
+  color: #000000;
 }
-.textcopi{
+
+.copiright {
   position: absolute;
-width: 529px;
-height: 40.74px;
-left: 102px;
-top: 10px;
+  width: 1440px;
+  height: 64.37px;
+  left: 0px;
+  top: 1280px;
+  background: #000000;
+}
 
-font-family: 'Akkurat';
-font-style: normal;
-font-weight: 500;
-font-size: 14px;
-line-height: 16px;
+.textcopi {
+  position: absolute;
+  width: 529px;
+  height: 40.74px;
+  left: 102px;
+  top: 10px;
+  font-family: 'Akkurat';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #FFFFFF;
+}
 
-color: #FFFFFF;
+.fb {
+  position: absolute;
+  width: 70px;
+  height: 70px;
+  left: 722px;
+  top: 2px;
+}
+
+.inst {
+  position: absolute;
+  width: 77px;
+  height: 77px;
+  left: 852px;
+  top: 0px;
 }
