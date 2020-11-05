@@ -204,7 +204,7 @@ a:link {
   font-family: 'Akkurat';
   font-style: normal;
   font-weight: 700;
-  font-size: 16px;
+  font-size: 14px;
   line-height: 15px;
   color: #FFFFFF;
 }
@@ -235,7 +235,7 @@ a:link {
   font-family: "Akkurat";
   font-style: normal;
   font-weight: 700;
-  font-size: 16px;
+  font-size: 14px;
   line-height: 15px;
   color: #FFFFFF;
 }
@@ -243,7 +243,7 @@ a:link {
 .thirdpr {
   position: absolute;
   width: 386px;
-  height: 474px;
+  height: 507px;
   left: 30px;
   top: 815px;
 }
@@ -257,7 +257,7 @@ a:link {
   font-family: 'Akkurat';
   font-style: normal;
   font-weight: 700;
-  font-size: 16px;
+  font-size: 14px;
   line-height: 15px;
   color: #FFFFFF;
 }
@@ -308,7 +308,7 @@ a:link {
   font-family: "Akkurat";
   font-style: normal;
   font-weight: 600px;
-  font-size: 16px;
+  font-size: 14px;
   line-height: 15px;
   color: #000000;
 }
@@ -330,7 +330,7 @@ a:link {
   font-family: 'Akkurat';
   font-style: normal;
   font-weight: 700;
-  font-size: 16px;
+  font-size: 14px;
   line-height: 15px;
   color: #000000;
 }
@@ -378,7 +378,7 @@ a:link {
   position: absolute;
   width: 529px;
   height: 40.74px;
-  left: 102px;
+  left: 127px;
   top: 10px;
   font-family: 'Akkurat';
   font-style: normal;
@@ -400,6 +400,20 @@ a:link {
   position: absolute;
   width: 77px;
   height: 77px;
-  left: 852px;
+  left: 891px;
   top: 0px;
+}
+.vk{
+  position: absolute;
+  width: 77px;
+  height: 77px;
+  left: 1060px;
+  top: 0px;
+}
+.tel{
+  position: absolute;
+  width: 70px;
+  height: 70px;
+  left: 540px;
+  top: 5px;
 }
