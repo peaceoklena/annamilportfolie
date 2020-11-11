@@ -1,12 +1,7 @@
-@font-face {
-  font-family: "Akkurat", sans-serif;
-  font-style: normal;
-  font-weight: 400;
-  src: url(../FontsFree-Net-Akkurat.ttf) format('truetype');
-}
+
 
 body {
-  font-family: "Akkurat, sans-serif";
+  font-family: 'Roboto', sans-serif;
   margin: 0px;
 }
 
@@ -19,18 +14,13 @@ body {
   top: -2px;
 }
 
-h1 {
+.anastvi {
   position: absolute;
   width: 668px;
   height: 288px;
   left: 275px;
-  top: 180px;
-  font-family: "Akkurat";
-  font-style: normal;
-  font-weight: 500;
-  font-size: 123px;
-  line-height: 144px;
-  color: white;
+  top: 250px;
+
 }
 
 a:link {
@@ -76,7 +66,7 @@ a:link {
   height: 31.76px;
   left: 1097px;
   top: 253px;
-  font-family: 'Akkurat';
+  font-family: 'Roboto', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 17px;
@@ -91,7 +81,7 @@ a:link {
   height: 31px;
   left: 143px;
   top: 190px;
-  font-family: "Akkurat";
+  font-family: 'Roboto', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 17px;
@@ -106,7 +96,7 @@ a:link {
   height: 31.76px;
   left: 143px;
   top: 644px;
-  font-family: "Akkurat";
+  font-family: 'Roboto', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 17px;
@@ -122,7 +112,7 @@ a:link {
   height: 54px;
   left: 873px;
   top: 417px;
-  font-family: 'Akkurat';
+  font-family: 'Roboto', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 20px;
@@ -137,7 +127,7 @@ a:link {
   height: 10px;
   left: 997px;
   top: 634px;
-  font-family: 'Akkurat';
+  font-family: 'Roboto', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 17px;
@@ -152,7 +142,7 @@ a:link {
   height: 10px;
   left: 1048px;
   top: 634px;
-  font-family: 'Akkurat';
+  font-family: 'Roboto', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 17px;
@@ -173,7 +163,7 @@ a:link {
 }
 
 .gh {
-  font-family: 'Akkurat';
+  font-family: 'Roboto', sans-serif;
   color: black;
   position: absolute;
   text-align: center;
@@ -201,7 +191,7 @@ a:link {
   height: 117px;
   left: 465px;
   top: 134px;
-  font-family: 'Akkurat';
+  font-family: 'Roboto', sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 14px;
@@ -232,7 +222,7 @@ a:link {
   height: 135.46px;
   left: 390px;
   top: 760px;
-  font-family: "Akkurat";
+  font-family: 'Roboto', sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 14px;
@@ -254,7 +244,7 @@ a:link {
   height: 302.02px;
   left: 465px;
   top: 1629px;
-  font-family: 'Akkurat';
+  font-family: 'Roboto', sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 14px;
@@ -282,7 +272,7 @@ a:link {
   height: 47px;
   left: 102px;
   top: 50px;
-  font-family: "Akkurat";
+  font-family: 'Roboto', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 10px;
@@ -305,7 +295,7 @@ a:link {
   height: 470px;
   left: 465px;
   top: 200px;
-  font-family: "Akkurat";
+  font-family: 'Roboto', sans-serif;
   font-style: normal;
   font-weight: 600px;
   font-size: 14px;
@@ -327,7 +317,7 @@ a:link {
   height: 64.01px;
   left: 750px;
   top: 600px;
-  font-family: 'Akkurat';
+  font-family: 'Roboto', sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 14px;
@@ -341,7 +331,7 @@ a:link {
   height: 165px;
   left: 0px;
   top: 800px;
-  font-family: "Akkurat";
+  font-family: 'Roboto', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 123px;
@@ -357,7 +347,7 @@ a:link {
   height: 97px;
   left: 122px;
   top: 1150px;
-  font-family: 'Akkurat';
+  font-family: 'Roboto', sans-serif;
   font-style: normal;
   font-weight: 600;
   font-size: 16px;
@@ -380,10 +370,10 @@ a:link {
   height: 40.74px;
   left: 127px;
   top: 10px;
-  font-family: 'Akkurat';
+  font-family: 'Roboto', sans-serif;
   font-style: normal;
   font-weight: 500;
-  font-size: 14px;
+  font-size: 12px;
   line-height: 16px;
   color: #FFFFFF;
 }
@@ -393,7 +383,7 @@ a:link {
   width: 70px;
   height: 70px;
   left: 722px;
-  top: 2px;
+  top: 7px;
 }
 
 .inst {
@@ -401,19 +391,86 @@ a:link {
   width: 77px;
   height: 77px;
   left: 891px;
-  top: 0px;
+  top: 4px;
 }
 .vk{
   position: absolute;
   width: 77px;
   height: 77px;
   left: 1060px;
-  top: 0px;
+  top: 4px;
 }
 .tel{
   position: absolute;
-  width: 70px;
-  height: 70px;
+  width: 87px;
+  height: 87px;
   left: 540px;
-  top: 5px;
+  top: 0px;
+  bottom: 17px;
+}
+/* ABOUT ME PAGE*/
+
+.titleaboutme{
+  position: absolute;
+width: 692px;
+height: 335px;
+left: 413px;
+top: 120px;
+
+font-family: "Roboto";
+font-style: normal;
+font-weight: 500;
+font-size: 123px;
+line-height: 144px;
+
+color: #000000;
+
+}
+.ME{
+  position: absolute;
+width: 692px;
+height: 335px;
+left: 413px;
+top: 260px;
+
+font-family: "Roboto";
+font-style: normal;
+font-weight: 500;
+font-size: 123px;
+line-height: 144px;
+
+color: #000000;
+}
+.textaboutme{
+  position: absolute;
+width: 364px;
+height: 296px;
+left: 609px;
+top: 334px;
+
+font-family: Helvetica;
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 11px;
+
+color: #000000;
+
+}
+.aboutmainpage{
+  position: absolute;
+  width: 107.58px;
+  height: 31px;
+  left: 243px;
+  top: 196px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 10px;
+  line-height: 12px;
+
+  color: black;
+
+
 }

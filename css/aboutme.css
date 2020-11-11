@@ -1,0 +1,74 @@
+.titleaboutme{
+  position: absolute;
+width: 692px;
+height: 335px;
+left: 413px;
+top: 120px;
+
+font-family: "Roboto";
+font-style: normal;
+font-weight: 500;
+font-size: 123px;
+line-height: 144px;
+
+color: #000000;
+
+}
+.ME{
+  position: absolute;
+width: 692px;
+height: 335px;
+left: 413px;
+top: 260px;
+
+font-family: "Roboto";
+font-style: normal;
+font-weight: 500;
+font-size: 123px;
+line-height: 144px;
+
+color: #000000;
+}
+.textaboutme{
+  position: absolute;
+width: 364px;
+height: 296px;
+left: 609px;
+top: 334px;
+
+font-family: Helvetica;
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 11px;
+
+color: #000000;
+
+}
+.aboutmainpage{
+  position: absolute;
+  width: 120px;
+  height: 31px;
+  left: 243px;
+  top: 196px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 12px;
+
+  color: black;
+}
+a:link {
+  color: black;
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  font-size: 150%;
+}
